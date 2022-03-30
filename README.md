@@ -1,2 +1,2 @@
-# TandiseMehr-Web-Project
- Done as final BCIT project
+# TandiseMehr-Project-frontend
+ Done as a real project also final project for BCIT course
